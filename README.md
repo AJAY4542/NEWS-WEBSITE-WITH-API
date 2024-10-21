@@ -1,3 +1,4 @@
+#api is slow so try it on your pc 
 NEWZ BITE - News Web App
 NEWZ BITE is a dynamic news web app that delivers up-to-date articles on a variety of topics like AI, Finance, and Politics. It features a modern user interface and allows users to search for news articles easily.
 
